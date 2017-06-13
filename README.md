@@ -15,3 +15,9 @@ in the users.txt enter a user you wish to tweet this message to.
 each user on a new line and it does not require the @
 
 and done :)
+
+
+Your account will then tweet each user with the same message but have them tagged in like
+
+@twitter Antigua
+@twittersupport Antigua

@@ -1,6 +1,15 @@
 # tweet_en_mass
 Mass Tweet a list of users
 
+Requirements
+------
+
+```
+pip install tweepy
+pip install fileinput
+```
+
+
 Set the message and the geo location in the tweet config of main.py
 
 ```
@@ -21,3 +30,12 @@ Your account will then tweet each user with the same message but have them tagge
 
 @twitter Antigua
 @twittersupport Antigua
+
+```
+SPAMMING UESRS IS NOT INTENDED FOR THIS SCRIPT SO PLEASE DO NOT USE IT FOR BAD PURPOSES.
+
+IT'S DESIGNED TO ALLOW YOU TO MASS TWEET GROUPS THAT KNOW THEY WILL GET SOME SORT OF MESSAGE FROM YOU.
+
+YOUR RESPONSIBLE FOR IT'S USE.
+
+```
